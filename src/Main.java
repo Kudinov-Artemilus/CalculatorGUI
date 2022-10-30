@@ -8,6 +8,6 @@ public class Main extends JFrame {
         calc.pack();
         calc.setLocationRelativeTo(null);
         calc.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        calc.setVisible(true);
+        calc.setVisible(true); //
     }
 }
